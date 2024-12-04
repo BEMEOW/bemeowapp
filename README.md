@@ -1,4 +1,4 @@
-# **BEMEOW DApp**
+# **BEMEOW App**
 
 ---
 
