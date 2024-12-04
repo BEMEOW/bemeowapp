@@ -76,13 +76,14 @@ Predominantly using the [anza.xyz](https://anza.xyz) standard and custom adaptat
 
 ## **Technical Stack**
 - **Frontend**: React, JavaScript, Typescript, CSS, HTML.  
-- **Backend**: Firebase for user stats and badge data.
-- **Main Libraries**: @solana/web3.js, @solana-mobile, @solana/wallet-adapter-react, @anza.xyz, mobile-detect, 
+- **Off-Chain Database**: Firebase for user stats and badge data.
+- **Backend**: Local on dedicated device solely for development.
+- **Main Libraries**: @solana/web3.js, @solana-mobile, @solana/wallet-adapter-react, @anza.xyz, mobile-detect. 
 - **APIs**:  
   - Binance API for real-time asset prices (client-side).  
   - Quicknode Solana RPCs for on-chain data fetching.
  
-## **Go Live of underlying Version**
+## **Go Live of this Version**
 - Right after a positive review (and evtl. revion) by of blowfish
 
 ---
