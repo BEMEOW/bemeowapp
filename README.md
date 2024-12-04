@@ -65,8 +65,8 @@ Predominantly using the [anza.xyz](https://anza.xyz) standard and custom adaptat
 - **Codebase Quality**:  
   - This is our first React project.  
   - Some areas of redundancy and hardcoding surely exist but do not compromise core functionality.
-  - Some scripts are currently not in active use
-  - Phantom Wallet suppressions have served early investor trist and are now commented out here.
+  - Some scripts are currently not in active use.
+  - Phantom wallet suppressions served early investor trust and are now commented out.
 
 - **Console Outputs**: Disabled to reduce performance impact from wallet SDK logs.  
 
