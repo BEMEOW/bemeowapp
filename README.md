@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-BEMEOW DApp aims to offer a seamless, perfomant and engaging interface to participate in the **$BEME token presale**, with additional features such as:  
+BEMEOW App aims to offer a seamless, perfomant and engaging interface to participate in the **$BEME token presale**, with additional features such as:  
 - **Music Player**: A curated Web3 experience showcasing our label's content.  
 - **Swap Widget**: Powered by **Jupiter** for fast and efficient token swaps and intelligent preferences.  
 - **Cross-Chain Bridge Widget**: Powered by **deBridge** for extended functionality and flexibility.  
