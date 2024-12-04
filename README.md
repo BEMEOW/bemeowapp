@@ -32,7 +32,7 @@ The app is designed with a playful **UI/UX**, staying true to our brand identity
 ### **Security & Blowfish Compliance**
 - **Transaction Validation**: All transactions sent to the user’s wallet for signing are standard Solana transfers (to presale wallet/token account).  
 - **Error Handling**:  
-  - Comprehensive silent `try/catch` logic with error boundaries.  
+  - Comprehensive silent `try/catch` logic and error boundaries.  
   - Error Boundares are silent or user-notified based on relevance.  
 - **RPC Rate Limits**:
   - Tight restrictions prevent abuse and enhance app security.  
